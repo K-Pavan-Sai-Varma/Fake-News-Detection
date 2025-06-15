@@ -27,7 +27,7 @@ This project implements a Fake News Detection system using Natural Language Proc
 1. Install the required libraries using pip:
    pip install pandas numpy scikit-learn matplotlib seaborn
 2. Download or clone this repository.
-3. Run the Fake_News_Detection.py script.
+3. Run the [Fake_News_Detection.py](https://github.com/K-Pavan-Sai-Varma/Fake-News-Detection/blob/main/Fake_News_Detection.py) script
 4. The program will output accuracy and a confusion matrix.
 5. Graphs will be displayed showing fake and real article counts.
 
